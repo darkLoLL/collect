@@ -1,2 +1,3 @@
 # collect
-collection of questions.
+collection of code.\
+代码收集
